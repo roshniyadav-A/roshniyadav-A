@@ -1,4 +1,4 @@
-# 🌸 Roshni Yadav | Business & Data Analyst
+#  Roshni Yadav | Business & Data Analyst
 
 > Data-driven thinker with a strong interest in business strategy and analytics.
 
