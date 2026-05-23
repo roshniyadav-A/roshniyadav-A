@@ -57,7 +57,6 @@ Power BI | Matplotlib | PowerPoint
 
 ---
 
-## 🚀 Closing Lines
 
 Thank you for visiting my profile 🌸  
 Always open to learning, collaborating, and growing in the field of **Data & Business Analytics**.  
