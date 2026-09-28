@@ -1,4 +1,4 @@
-#  Roshni Yadav | Junior Data Analyst
+#  Roshni Yadav | Junior Business Analyst
 
 > Data-driven thinker with a strong interest in business strategy and analytics.
 
